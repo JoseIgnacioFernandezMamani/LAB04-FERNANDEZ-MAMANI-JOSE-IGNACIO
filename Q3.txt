@@ -1,0 +1,14 @@
+# —¿Cómo es que se instalan paquetes con yarn?
+```csharp
+yarn add package
+```
+
+# —¿Cómo es que se borran paquetes con yarn?
+```csharp
+yarn remove package
+```
+
+# —¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+```csharp
+yarn init
+```
